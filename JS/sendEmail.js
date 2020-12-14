@@ -15,4 +15,3 @@ function sendMail(contactForm) {
     return false;
 }
 
-console.log("helllowwwwwwwwwww");
