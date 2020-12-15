@@ -50,7 +50,7 @@ function fetchGitHubInformation(event) {
 
     $("#gh-user-data").html(
         `<div id="loader">
-            <img src="Image/loading.jpg" alt="loading..." />
+            <img src="Image/Loader.jpg" alt="loading..." />
         </div>`);
 
     $.when(
